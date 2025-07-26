@@ -108,11 +108,10 @@ SOLAR-SITE-SELECTION-BAGMATI/
 
 ---
 
-## Sample Outputs
+## 📸 Sample Outputs
 
-- ![Suitability Map](figures/Suitability_map.png) **(Most Suitable Zones in Red)**
-- ![Sensitivity Analysis Charts](figures/sensitivity_analysis_chart.png)
-- ![Overlay of Solar Farms on Model Output](figures/solar_farm_overlay.png)
+- ![Suitability Map](figures/Suitability_map.png) **(Suitability Map)**
+- ![Most Suitable Areas](figures/Most_Suitable_Area.jpg) **(Most Suitable Zones in Green)**
 
 ---
 
