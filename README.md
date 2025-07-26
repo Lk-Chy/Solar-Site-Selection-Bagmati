@@ -64,6 +64,7 @@ The suitability analysis was conducted using:
 
 ## 📂 Project Structure
 
+```
 SOLAR-SITE-SELECTION-BAGMATI/
 │
 ├── data/ # Contains raw and processed data files
@@ -87,9 +88,9 @@ SOLAR-SITE-SELECTION-BAGMATI/
 │ ├── sensitivity_analysis.py # Sensitivity analysis script
 │ └── suitability_overlay.py # Script for overlaying suitability maps
 │
+├── LICENSE # Project license file
 └── README.md # Project documentation
-│
-└── README.md # Project documentation
+```
 
 
 ---
